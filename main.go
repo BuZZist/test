@@ -1,6 +1,8 @@
 package main
+
 import "fmt"
 
 func main() {
-  fmt.Println("Hello,world!")
+  x:=[...]int{2:10,3:40}
+  fmt.Println(x)
 }
